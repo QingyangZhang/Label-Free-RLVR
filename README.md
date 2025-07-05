@@ -71,6 +71,8 @@ A curated collection of papers on Label-Free Reinforcement Learning with Verifia
 
 [Sherlock: Self-Correcting Reasoning in Vision-Language Models](https://arxiv.org/pdf/2505.22651), ArXiv, 2025-05-28
 
+[Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models](https://arxiv.org/abs/2506.06395), Arxiv, 2025-07-05 
+
 ### Others
 
 [SLOT: Sample-specific Language Model Optimization at Test-time](https://arxiv.org/abs/2505.12392), ArXiv, 2025-05-18
