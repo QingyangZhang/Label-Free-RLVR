@@ -1,3 +1,34 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=it">Itapano</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=QingyangZhang&project=Label-Free-RLVR&lang=id">Bahasa Indonesia</a>
+      </div>
+    </div>
+  </details>
+</div>
+
 # Awesome Label-Free Reinforcement Learning with Verifiable Rewards
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
